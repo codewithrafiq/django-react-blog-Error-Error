@@ -1,0 +1,26 @@
+# Django React Blog App
+
+- Login
+- Register
+- Post
+  - profile
+  - title
+  - description
+  - image
+- Profile
+  - user
+  - name
+  - email
+  - bio
+  - profile pic
+- Like
+  - profile
+  - Post
+- Comment
+  - title
+  - profile
+  - post
+  - Reply
+    -title
+    - profile
+    - post
